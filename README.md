@@ -65,20 +65,19 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## Практика и стажировка
 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/natashaRus/natashaRus/refs/heads/main/certificate.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/natashaRus/natashaRus/refs/heads/main/certificate.png)
 
 
-<br>
 <br>
 
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:russiyanovanatasha@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@NatashaR_N)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NatashaR_N)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
