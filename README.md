@@ -67,7 +67,8 @@
 <br>
 
 ## Практика и стажировка
-
+[<img src="/internship_HSE_EN.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/natashaRus/natashaRus/blob/main/internship_HSE_EN.png)
+[<img src="/internship_HSE_RU.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/natashaRus/natashaRus/blob/main/internship_HSE_RU.png)
 
 <br>
 
